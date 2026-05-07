@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>CI/CD Project</title>
+</head>
+
+<body>
+<h1>Hello CI/CD Pipeline</h1>
+</body>
+</html>
